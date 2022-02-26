@@ -469,7 +469,7 @@ b, strong {
   }
 
   .color-mode {
-    display: none;
+    display: list-item;
   }
 
   .about-image {
